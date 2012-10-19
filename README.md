@@ -6,8 +6,9 @@ without the need to go to sound settings.
 
 ## Installation
 Copy these files in your folder ~/.local/share/gnome-shell/extensions
-inside a folder called volumeboost@extensions.eldruin.com
+inside a folder called `volumeboost@extensions.eldruin.com`
 Alternatively, you can download these files and execute this command
+
     mkdir -p ~/.local/share/gnome-shell/extensions/volumeboost@extensions.eldruin.com && \
     cp extension.js stylesheet.css metadata.json ~/.local/share/gnome-shell/extensions/volumeboost@extensions.eldruin.com
 
@@ -17,5 +18,5 @@ start using it.
 
 ## Disclaimer
 Author: Diego Barrios Romero
-Email: eldruin@eldruin.com
+Email: <eldruin@eldruin.com>
 Public domain Copyleft 2012
