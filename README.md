@@ -5,7 +5,7 @@ the volume up to 150% from the volume control slider in the status bar
 without the need to go to sound settings.
 
 ## Installation
-Copy these files in your folder ~/.local/share/gnome-shell/extensions
+Copy these files in your folder `~/.local/share/gnome-shell/extensions`
 inside a folder called `volumeboost@extensions.eldruin.com`
 Alternatively, you can download these files and execute this command
 
@@ -17,6 +17,6 @@ this extension in Gnome Tweak Tool (or through the command line) to
 start using it.
 
 ## Disclaimer
-Author: Diego Barrios Romero
-Email: <eldruin@eldruin.com>
+Author: Diego Barrios Romero  
+Email: <eldruin@eldruin.com>  
 Public domain Copyleft 2012
